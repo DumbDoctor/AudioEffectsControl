@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nijie/AndroidStudioProjects/AudioEffectsControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/nijie/AndroidStudioProjects/AudioEffectsControl/app/build/intermediates/pre-dexed/debug/classes-5c64bc37dadb81b93e4a0b5b67dab3e920324de4.jar" />
+    </item>
+    <item
+        jar="/home/nijie/AndroidStudioProjects/AudioEffectsControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/nijie/AndroidStudioProjects/AudioEffectsControl/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-04a87a27e2a7dbe45b5d89d0e3ef8fd578fad185.jar" />
+    </item>
+    <item
+        jar="/data/tools/android-sdk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/nijie/AndroidStudioProjects/AudioEffectsControl/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cc77feb750e157189c9705c4fde2ffba5f34c785.jar" />
+    </item>
+
+</items>
